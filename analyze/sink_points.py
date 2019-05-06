@@ -1,3 +1,4 @@
+
 from securing_functions import *
 
 NAME_XSS = 'Cross-Site Scripting';
